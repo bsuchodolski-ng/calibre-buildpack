@@ -9,4 +9,4 @@ mkdir -p vendor/calibre/bin
 # untar the binary to the directory we want
 tar -C vendor/calibre/bin -xvjf linux.tar.bz2 ./calibre
 # set proper permission
-chmod +x vendor/calire/bin/calibre
+chmod +x vendor/calibre/bin/calibre
