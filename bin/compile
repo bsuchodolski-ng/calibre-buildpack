@@ -10,5 +10,3 @@ mkdir -p vendor/calibre/bin
 tar -C vendor/calibre/bin -xvjf linux.tar.bz2 ./calibre
 # set proper permission
 chmod +x vendor/calibre/bin/calibre
-# add it to path
-export PATH=$PATH:vendor/calibre/bin
